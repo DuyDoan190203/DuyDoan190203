@@ -1,5 +1,5 @@
 # Hi! I’m Duy 👋
-I don’t just clean up data—I like to make it work for real people. Whether it’s untangling pharma records at Innate AI, automating reporting so business teams can breathe, or spinning up data stacks for genuinely hard problems, I’m in my element when wrangling chaos into order.
+I don’t just clean up data—I like to make it work for real people. Whether it’s untangling pharma records, automating reporting so business teams can breathe, or spinning up data stacks for genuinely hard problems, I’m in my element when wrangling chaos into order.
 
 ## 🧰 My Favorite Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

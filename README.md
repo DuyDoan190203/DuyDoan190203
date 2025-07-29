@@ -20,8 +20,6 @@ I believe in data that earns its place in the pipeline—just because you *can* 
 ## 🏷️ Reach Out
 - 📬 duydoanHel@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/duy-doan-dataengineer)
-- 🧑‍💻 [GitHub](https://github.com/DuyDoan190203)
-
 ---
 
 *Let’s make messy data awesome together.*

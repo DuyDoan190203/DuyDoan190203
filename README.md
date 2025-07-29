@@ -15,7 +15,7 @@ I don’t just clean up data—I like to make it work for real people. Whether i
 
 
 ## 🧠 How I Think
-I believe in data that earns its place in the pipeline—just because you *can* move bytes doesn’t mean you *should*. My best work connects business value to technical detail, and I sweat the small stuff (validation, data quality, monitoring) so you don’t get 2AM Slack pings.
+I believe in data that earns its place in the pipeline—just because you *can* move bytes doesn’t mean you *should*.
 
 ## 🏷️ Reach Out
 - 📬 duydoanHel@gmail.com
